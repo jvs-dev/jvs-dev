@@ -42,4 +42,4 @@
   📫 How to talk to me: <a href='mailto:jvssilv4@gmail.com'>jvssilv4@gmail.com</a>
 </p>
 
-![snake gif](https://github.com/jvs-dev/inVote/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/jvs-dev/jvs-dev/blob/output/github-contribution-grid-snake.svg)
