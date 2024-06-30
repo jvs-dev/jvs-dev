@@ -15,15 +15,15 @@
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/jvs.dev/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;
   
 </p>
 
 <div align="center">
   <a href="https://github.com/ubiratan-motta">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jvs-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvs-dev&layout=compact&langs_count=7&theme=radical"/>
-</div>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jvs-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvs-dev&layout=compact&langs_count=7&theme=dark"/>
+</div>&nbsp;&nbsp;
 
 <p align='center'>
   💻 My workspace <br><br>
