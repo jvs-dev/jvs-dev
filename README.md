@@ -45,7 +45,6 @@
 </p>
 <div align='center'>
   ![Snake animation](https://github.com/jvs-dev/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-</div>
 
 
 **Total de visitas no meu perfil :detective: <br>**
