@@ -43,9 +43,9 @@
 <p align='center'>
   📫 How to talk to me: <a href='mailto:jvssilv4@gmail.com'>jvssilv4@gmail.com</a>
 </p>
-<p align='center'>
+<div align='center'>
   ![Snake animation](https://github.com/jvs-dev/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-</p>
+</div>
 
 
 **Total de visitas no meu perfil :detective: <br>**
