@@ -44,7 +44,7 @@
   📫 How to talk to me: <a href='mailto:jvssilv4@gmail.com'>jvssilv4@gmail.com</a>
 </p>
 
-![Snake animation](https://github.com/jvs-dev/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/jvs-dev/jvs-dev/blob/output/github-contribution-grid-snake.svg)
 
 
 **Total de visitas no meu perfil :detective: <br>**
