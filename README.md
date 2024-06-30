@@ -19,9 +19,11 @@
   
 </p>
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=jvs-dev" width="350"></a>
-</p>
+<div align="center">
+  <a href="https://github.com/ubiratan-motta">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jvs-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvs-dev&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
 <p align='center'>
   💻 My workspace <br><br>
