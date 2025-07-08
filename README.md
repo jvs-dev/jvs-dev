@@ -10,20 +10,22 @@
 
 <p align='center'>
   
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-dev/">
+  <a href="https://www.linkedin.com/in/joão-vitor-dev">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/jvs.dev/">
+  <a href="https://www.instagram.com/jvs.dev">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;
   
 </p>
 
+### GitHub Statistics
+
 <div align="center">
-  <a href="https://github.com/ubiratan-motta">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jvs-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvs-dev&layout=compact&langs_count=7&theme=dracula"/>
-</div>&nbsp;&nbsp;
+  <a href="https://github.com/jvs-dev">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jvs-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvs-dev&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
 <p align='center'>
   💻 My workspace <br><br>
