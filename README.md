@@ -23,8 +23,8 @@
 
 <div align="center">
   <a href="https://github.com/jvs-dev">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jvs-dev&show_icons=true&theme=dracula&include_all_commits"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvs-dev&layout=donut&langs_count=7&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jvs-dev&show_icons=true&theme=dracula&include_all_commits"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvs-dev&layout=donut&langs_count=5&theme=dracula"/>
 </div>
 
 <p align='center'>
