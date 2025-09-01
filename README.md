@@ -8,8 +8,8 @@
 
 
 
-<p align='center'>
-<div>
+
+<div align='center'>
         <!--imagem instagram-->
         <a href="https://www.instagram.com/jvs.dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
         <!--imagem gmail-->
@@ -20,9 +20,10 @@
         <a href="https://wa.me/71982581220"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
         <br><br>
 </div>
-</p>
 
-### GitHub Statistics
+<div align='center'>
+<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>GitHub Stats
+</div>
 
 <div align="center">
   <a href="https://github.com/jvs-dev">
@@ -48,7 +49,7 @@
 <p align='center'>
   📫 How to talk to me: <a href='mailto:jvssilv4@gmail.com'>jvssilv4@gmail.com</a>
 </p>
-
+<div align='center'>
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens:
 <div style="display: inline_block"><br> 
         <img align="center" alt="Ray-java" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">        
@@ -58,6 +59,7 @@
         <img align="center" alt="Ray-mysql" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />        
         <img align="center" alt="Ray-vscode" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />        
 </div> 
+</div>
 
 <br><br>
 
