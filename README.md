@@ -54,12 +54,6 @@
 <br>
 
 <p align='center'>
-  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
-</p>
-
-<br>
-
-<p align='center'>
   📫 How to talk to me:
 </p>
 <div align='center'>
@@ -74,7 +68,12 @@
         <br><br>
 </div>
 
+<br>
 
-<br><br>
+<p align='center'>
+  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
+</p>
+
+<br>
 
  ![Snake animation](https://github.com/jvs-dev/rafaballerini/blob/output/github-contribution-grid-snake.svg)
